@@ -1,0 +1,6524 @@
+[
+    {
+        "id": 1,
+        "text": "i",
+        "category": "NNS",
+        "frequency": 993
+    },
+    {
+        "id": 2,
+        "text": "need",
+        "category": "VBP",
+        "frequency": 66
+    },
+    {
+        "id": 3,
+        "text": "you",
+        "category": "PRP",
+        "frequency": 704
+    },
+    {
+        "id": 4,
+        "text": "to",
+        "category": "TO",
+        "frequency": 480
+    },
+    {
+        "id": 5,
+        "text": "call",
+        "category": "VB",
+        "frequency": 22
+    },
+    {
+        "id": 6,
+        "text": "the",
+        "category": "DT",
+        "frequency": 235
+    },
+    {
+        "id": 7,
+        "text": "nurse",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 8,
+        "text": "either",
+        "category": "DT",
+        "frequency": 2
+    },
+    {
+        "id": 9,
+        "text": "today",
+        "category": "NN",
+        "frequency": 21
+    },
+    {
+        "id": 10,
+        "text": "or",
+        "category": "CC",
+        "frequency": 9
+    },
+    {
+        "id": 11,
+        "text": "tomorrow",
+        "category": "NN",
+        "frequency": 14
+    },
+    {
+        "id": 12,
+        "text": "can",
+        "category": "MD",
+        "frequency": 204
+    },
+    {
+        "id": 13,
+        "text": "read",
+        "category": "VB",
+        "frequency": 8
+    },
+    {
+        "id": 14,
+        "text": "me",
+        "category": "PRP",
+        "frequency": 260
+    },
+    {
+        "id": 15,
+        "text": "a",
+        "category": "DT",
+        "frequency": 214
+    },
+    {
+        "id": 16,
+        "text": "book",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 17,
+        "text": "please",
+        "category": "NN",
+        "frequency": 142
+    },
+    {
+        "id": 18,
+        "text": "help",
+        "category": "VB",
+        "frequency": 90
+    },
+    {
+        "id": 19,
+        "text": "wash",
+        "category": "VB",
+        "frequency": 10
+    },
+    {
+        "id": 20,
+        "text": "my",
+        "category": "PRP$",
+        "frequency": 134
+    },
+    {
+        "id": 21,
+        "text": "face",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 22,
+        "text": "hear",
+        "category": "VB",
+        "frequency": 8
+    },
+    {
+        "id": 23,
+        "text": "button",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 24,
+        "text": "coat",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 25,
+        "text": "move",
+        "category": "VB",
+        "frequency": 10
+    },
+    {
+        "id": 26,
+        "text": "this",
+        "category": "DT",
+        "frequency": 81
+    },
+    {
+        "id": 27,
+        "text": "turn",
+        "category": "VB",
+        "frequency": 34
+    },
+    {
+        "id": 28,
+        "text": "on",
+        "category": "IN",
+        "frequency": 59
+    },
+    {
+        "id": 29,
+        "text": "tv",
+        "category": "NN",
+        "frequency": 11
+    },
+    {
+        "id": 30,
+        "text": "change",
+        "category": "VB",
+        "frequency": 20
+    },
+    {
+        "id": 31,
+        "text": "position",
+        "category": "NN",
+        "frequency": 15
+    },
+    {
+        "id": 32,
+        "text": "of",
+        "category": "IN",
+        "frequency": 74
+    },
+    {
+        "id": 33,
+        "text": "chair",
+        "category": "NN",
+        "frequency": 9
+    },
+    {
+        "id": 34,
+        "text": "back",
+        "category": "RB",
+        "frequency": 23
+    },
+    {
+        "id": 35,
+        "text": "urinal",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 36,
+        "text": "put",
+        "category": "VB",
+        "frequency": 20
+    },
+    {
+        "id": 37,
+        "text": "away",
+        "category": "RP",
+        "frequency": 10
+    },
+    {
+        "id": 38,
+        "text": "groceries",
+        "category": "NNS",
+        "frequency": 4
+    },
+    {
+        "id": 39,
+        "text": "reorder",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 40,
+        "text": "checks",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 41,
+        "text": "in",
+        "category": "IN",
+        "frequency": 67
+    },
+    {
+        "id": 42,
+        "text": "checking",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 43,
+        "text": "account",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 44,
+        "text": "close",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 45,
+        "text": "window",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 46,
+        "text": "take",
+        "category": "VB",
+        "frequency": 25
+    },
+    {
+        "id": 47,
+        "text": "outside",
+        "category": "JJ",
+        "frequency": 10
+    },
+    {
+        "id": 48,
+        "text": "thanks",
+        "category": "NNS",
+        "frequency": 12
+    },
+    {
+        "id": 49,
+        "text": "for",
+        "category": "IN",
+        "frequency": 112
+    },
+    {
+        "id": 50,
+        "text": "visiting",
+        "category": "VBG",
+        "frequency": 3
+    },
+    {
+        "id": 51,
+        "text": "are",
+        "category": "VBP",
+        "frequency": 133
+    },
+    {
+        "id": 52,
+        "text": "crazy",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 53,
+        "text": "radio",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 54,
+        "text": "up",
+        "category": "RP",
+        "frequency": 43
+    },
+    {
+        "id": 55,
+        "text": "heat",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 56,
+        "text": "is",
+        "category": "VBZ",
+        "frequency": 112
+    },
+    {
+        "id": 57,
+        "text": "an",
+        "category": "DT",
+        "frequency": 30
+    },
+    {
+        "id": 58,
+        "text": "emergency",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 59,
+        "text": "do",
+        "category": "VBP",
+        "frequency": 194
+    },
+    {
+        "id": 60,
+        "text": "understand",
+        "category": "VB",
+        "frequency": 21
+    },
+    {
+        "id": 61,
+        "text": "guess",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 62,
+        "text": "better",
+        "category": "VBP",
+        "frequency": 16
+    },
+    {
+        "id": 63,
+        "text": "be",
+        "category": "VB",
+        "frequency": 67
+    },
+    {
+        "id": 64,
+        "text": "going",
+        "category": "VBG",
+        "frequency": 55
+    },
+    {
+        "id": 65,
+        "text": "it",
+        "category": "PRP",
+        "frequency": 305
+    },
+    {
+        "id": 66,
+        "text": "s",
+        "category": "JJ",
+        "frequency": 261
+    },
+    {
+        "id": 67,
+        "text": "been",
+        "category": "VBN",
+        "frequency": 19
+    },
+    {
+        "id": 68,
+        "text": "great",
+        "category": "JJ",
+        "frequency": 28
+    },
+    {
+        "id": 69,
+        "text": "see",
+        "category": "VB",
+        "frequency": 38
+    },
+    {
+        "id": 70,
+        "text": "hope",
+        "category": "VBP",
+        "frequency": 15
+    },
+    {
+        "id": 71,
+        "text": "again",
+        "category": "RB",
+        "frequency": 30
+    },
+    {
+        "id": 72,
+        "text": "stopping",
+        "category": "VBG",
+        "frequency": 2
+    },
+    {
+        "id": 73,
+        "text": "by",
+        "category": "IN",
+        "frequency": 6
+    },
+    {
+        "id": 74,
+        "text": "that",
+        "category": "DT",
+        "frequency": 274
+    },
+    {
+        "id": 75,
+        "text": "just",
+        "category": "RB",
+        "frequency": 39
+    },
+    {
+        "id": 76,
+        "text": "d",
+        "category": "VBP",
+        "frequency": 73
+    },
+    {
+        "id": 77,
+        "text": "like",
+        "category": "IN",
+        "frequency": 250
+    },
+    {
+        "id": 78,
+        "text": "some",
+        "category": "DT",
+        "frequency": 69
+    },
+    {
+        "id": 79,
+        "text": "shit",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 80,
+        "text": "when",
+        "category": "WRB",
+        "frequency": 38
+    },
+    {
+        "id": 81,
+        "text": "he",
+        "category": "PRP",
+        "frequency": 16
+    },
+    {
+        "id": 82,
+        "text": "could",
+        "category": "MD",
+        "frequency": 30
+    },
+    {
+        "id": 83,
+        "text": "have",
+        "category": "VB",
+        "frequency": 198
+    },
+    {
+        "id": 84,
+        "text": "helped",
+        "category": "VBN",
+        "frequency": 6
+    },
+    {
+        "id": 85,
+        "text": "out",
+        "category": "RP",
+        "frequency": 40
+    },
+    {
+        "id": 86,
+        "text": "little",
+        "category": "JJ",
+        "frequency": 18
+    },
+    {
+        "id": 87,
+        "text": "bit",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 88,
+        "text": "true",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 89,
+        "text": "balance",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 90,
+        "text": "make",
+        "category": "VB",
+        "frequency": 28
+    },
+    {
+        "id": 91,
+        "text": "deposit",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 92,
+        "text": "bank",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 93,
+        "text": "m",
+        "category": "VBP",
+        "frequency": 150
+    },
+    {
+        "id": 94,
+        "text": "here",
+        "category": "RB",
+        "frequency": 37
+    },
+    {
+        "id": 95,
+        "text": "ll",
+        "category": "VBP",
+        "frequency": 24
+    },
+    {
+        "id": 96,
+        "text": "meet",
+        "category": "NN",
+        "frequency": 10
+    },
+    {
+        "id": 97,
+        "text": "there",
+        "category": "EX",
+        "frequency": 47
+    },
+    {
+        "id": 98,
+        "text": "we",
+        "category": "PRP",
+        "frequency": 44
+    },
+    {
+        "id": 99,
+        "text": "now",
+        "category": "RB",
+        "frequency": 39
+    },
+    {
+        "id": 100,
+        "text": "office",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 101,
+        "text": "itch",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 102,
+        "text": "feel",
+        "category": "VBP",
+        "frequency": 31
+    },
+    {
+        "id": 103,
+        "text": "angry",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 104,
+        "text": "hot",
+        "category": "JJ",
+        "frequency": 13
+    },
+    {
+        "id": 105,
+        "text": "them",
+        "category": "PRP",
+        "frequency": 13
+    },
+    {
+        "id": 106,
+        "text": "scratch",
+        "category": "NN",
+        "frequency": 9
+    },
+    {
+        "id": 107,
+        "text": "harder",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 108,
+        "text": "want",
+        "category": "VBP",
+        "frequency": 67
+    },
+    {
+        "id": 109,
+        "text": "lay",
+        "category": "VB",
+        "frequency": 7
+    },
+    {
+        "id": 110,
+        "text": "socks",
+        "category": "NNS",
+        "frequency": 6
+    },
+    {
+        "id": 111,
+        "text": "uncomfortable",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 112,
+        "text": "did",
+        "category": "VBD",
+        "frequency": 69
+    },
+    {
+        "id": 113,
+        "text": "your",
+        "category": "PRP$",
+        "frequency": 69
+    },
+    {
+        "id": 114,
+        "text": "kind",
+        "category": "NN",
+        "frequency": 15
+    },
+    {
+        "id": 115,
+        "text": "work",
+        "category": "NN",
+        "frequency": 13
+    },
+    {
+        "id": 116,
+        "text": "something",
+        "category": "NN",
+        "frequency": 27
+    },
+    {
+        "id": 117,
+        "text": "say",
+        "category": "VB",
+        "frequency": 35
+    },
+    {
+        "id": 118,
+        "text": "about",
+        "category": "IN",
+        "frequency": 79
+    },
+    {
+        "id": 119,
+        "text": "how",
+        "category": "WRB",
+        "frequency": 85
+    },
+    {
+        "id": 120,
+        "text": "nice",
+        "category": "JJ",
+        "frequency": 18
+    },
+    {
+        "id": 121,
+        "text": "tell",
+        "category": "VB",
+        "frequency": 39
+    },
+    {
+        "id": 122,
+        "text": "finally",
+        "category": "RB",
+        "frequency": 3
+    },
+    {
+        "id": 123,
+        "text": "what",
+        "category": "WP",
+        "frequency": 222
+    },
+    {
+        "id": 124,
+        "text": "think",
+        "category": "VB",
+        "frequency": 73
+    },
+    {
+        "id": 125,
+        "text": "red",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 126,
+        "text": "sox",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 127,
+        "text": "happening",
+        "category": "VBG",
+        "frequency": 9
+    },
+    {
+        "id": 128,
+        "text": "name",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 129,
+        "text": "where",
+        "category": "WRB",
+        "frequency": 33
+    },
+    {
+        "id": 130,
+        "text": "live",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 131,
+        "text": "yeah",
+        "category": "NNS",
+        "frequency": 16
+    },
+    {
+        "id": 132,
+        "text": "mean",
+        "category": "VBP",
+        "frequency": 10
+    },
+    {
+        "id": 133,
+        "text": "telling",
+        "category": "VBG",
+        "frequency": 3
+    },
+    {
+        "id": 134,
+        "text": "wait",
+        "category": "VB",
+        "frequency": 18
+    },
+    {
+        "id": 135,
+        "text": "moment",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 136,
+        "text": "goodbye",
+        "category": "NN",
+        "frequency": 8
+    },
+    {
+        "id": 137,
+        "text": "let",
+        "category": "NN",
+        "frequency": 49
+    },
+    {
+        "id": 138,
+        "text": "try",
+        "category": "VB",
+        "frequency": 9
+    },
+    {
+        "id": 139,
+        "text": "finish",
+        "category": "VB",
+        "frequency": 12
+    },
+    {
+        "id": 140,
+        "text": "doing",
+        "category": "VBG",
+        "frequency": 28
+    },
+    {
+        "id": 141,
+        "text": "anything",
+        "category": "NN",
+        "frequency": 8
+    },
+    {
+        "id": 142,
+        "text": "special",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 143,
+        "text": "tonight",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 144,
+        "text": "hey",
+        "category": "NN",
+        "frequency": 29
+    },
+    {
+        "id": 145,
+        "text": "sarah",
+        "category": "VBP",
+        "frequency": 3
+    },
+    {
+        "id": 146,
+        "text": "taylor",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 147,
+        "text": "corinne",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 148,
+        "text": "later",
+        "category": "RB",
+        "frequency": 14
+    },
+    {
+        "id": 149,
+        "text": "minute",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 150,
+        "text": "real",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 151,
+        "text": "quick",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 152,
+        "text": "ouch",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 153,
+        "text": "long",
+        "category": "RB",
+        "frequency": 19
+    },
+    {
+        "id": 154,
+        "text": "ago",
+        "category": "RB",
+        "frequency": 4
+    },
+    {
+        "id": 155,
+        "text": "at",
+        "category": "IN",
+        "frequency": 19
+    },
+    {
+        "id": 156,
+        "text": "lunch",
+        "category": "NN",
+        "frequency": 15
+    },
+    {
+        "id": 157,
+        "text": "already",
+        "category": "RB",
+        "frequency": 4
+    },
+    {
+        "id": 158,
+        "text": "used",
+        "category": "VBN",
+        "frequency": 3
+    },
+    {
+        "id": 159,
+        "text": "happened",
+        "category": "VBD",
+        "frequency": 10
+    },
+    {
+        "id": 160,
+        "text": "maybe",
+        "category": "RB",
+        "frequency": 3
+    },
+    {
+        "id": 161,
+        "text": "all",
+        "category": "DT",
+        "frequency": 25
+    },
+    {
+        "id": 162,
+        "text": "done",
+        "category": "VBN",
+        "frequency": 14
+    },
+    {
+        "id": 163,
+        "text": "took",
+        "category": "VBD",
+        "frequency": 4
+    },
+    {
+        "id": 164,
+        "text": "so",
+        "category": "RB",
+        "frequency": 60
+    },
+    {
+        "id": 165,
+        "text": "if",
+        "category": "IN",
+        "frequency": 14
+    },
+    {
+        "id": 166,
+        "text": "time",
+        "category": "NN",
+        "frequency": 52
+    },
+    {
+        "id": 167,
+        "text": "over",
+        "category": "IN",
+        "frequency": 24
+    },
+    {
+        "id": 168,
+        "text": "and",
+        "category": "CC",
+        "frequency": 37
+    },
+    {
+        "id": 169,
+        "text": "no",
+        "category": "RB",
+        "frequency": 28
+    },
+    {
+        "id": 170,
+        "text": "longer",
+        "category": "RBR",
+        "frequency": 4
+    },
+    {
+        "id": 171,
+        "text": "get",
+        "category": "VBP",
+        "frequency": 58
+    },
+    {
+        "id": 172,
+        "text": "too",
+        "category": "RB",
+        "frequency": 15
+    },
+    {
+        "id": 173,
+        "text": "early",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 174,
+        "text": "spoon",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 175,
+        "text": "hurry",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 176,
+        "text": "don",
+        "category": "VBP",
+        "frequency": 121
+    },
+    {
+        "id": 177,
+        "text": "t",
+        "category": "JJ",
+        "frequency": 181
+    },
+    {
+        "id": 178,
+        "text": "anymore",
+        "category": "RB",
+        "frequency": 8
+    },
+    {
+        "id": 179,
+        "text": "any",
+        "category": "DT",
+        "frequency": 17
+    },
+    {
+        "id": 180,
+        "text": "chocolate",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 181,
+        "text": "with",
+        "category": "IN",
+        "frequency": 72
+    },
+    {
+        "id": 182,
+        "text": "dinner",
+        "category": "NN",
+        "frequency": 20
+    },
+    {
+        "id": 183,
+        "text": "linguisa",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 184,
+        "text": "vegetables",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 185,
+        "text": "would",
+        "category": "MD",
+        "frequency": 112
+    },
+    {
+        "id": 186,
+        "text": "ice",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 187,
+        "text": "cream",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 188,
+        "text": "open",
+        "category": "VB",
+        "frequency": 7
+    },
+    {
+        "id": 189,
+        "text": "grapes",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 190,
+        "text": "yogurt",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 191,
+        "text": "berries",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 192,
+        "text": "salad",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 193,
+        "text": "pie",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 194,
+        "text": "waffles",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 195,
+        "text": "syrup",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 196,
+        "text": "never",
+        "category": "RB",
+        "frequency": 12
+    },
+    {
+        "id": 197,
+        "text": "liked",
+        "category": "VBD",
+        "frequency": 12
+    },
+    {
+        "id": 198,
+        "text": "music",
+        "category": "NN",
+        "frequency": 9
+    },
+    {
+        "id": 199,
+        "text": "love",
+        "category": "VBP",
+        "frequency": 18
+    },
+    {
+        "id": 200,
+        "text": "play",
+        "category": "VB",
+        "frequency": 8
+    },
+    {
+        "id": 201,
+        "text": "place",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 202,
+        "text": "grateful",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 203,
+        "text": "ve",
+        "category": "VBP",
+        "frequency": 29
+    },
+    {
+        "id": 204,
+        "text": "really",
+        "category": "RB",
+        "frequency": 60
+    },
+    {
+        "id": 205,
+        "text": "care",
+        "category": "VB",
+        "frequency": 4
+    },
+    {
+        "id": 206,
+        "text": "feels",
+        "category": "VBZ",
+        "frequency": 8
+    },
+    {
+        "id": 207,
+        "text": "good",
+        "category": "JJ",
+        "frequency": 50
+    },
+    {
+        "id": 208,
+        "text": "means",
+        "category": "VBZ",
+        "frequency": 4
+    },
+    {
+        "id": 209,
+        "text": "much",
+        "category": "JJ",
+        "frequency": 27
+    },
+    {
+        "id": 210,
+        "text": "bad",
+        "category": "JJ",
+        "frequency": 7
+    },
+    {
+        "id": 211,
+        "text": "nervous",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 212,
+        "text": "worried",
+        "category": "VBN",
+        "frequency": 3
+    },
+    {
+        "id": 213,
+        "text": "should",
+        "category": "MD",
+        "frequency": 11
+    },
+    {
+        "id": 214,
+        "text": "hard",
+        "category": "JJ",
+        "frequency": 7
+    },
+    {
+        "id": 215,
+        "text": "will",
+        "category": "MD",
+        "frequency": 46
+    },
+    {
+        "id": 216,
+        "text": "stay",
+        "category": "VB",
+        "frequency": 8
+    },
+    {
+        "id": 217,
+        "text": "while",
+        "category": "NN",
+        "frequency": 8
+    },
+    {
+        "id": 218,
+        "text": "not",
+        "category": "RB",
+        "frequency": 62
+    },
+    {
+        "id": 219,
+        "text": "cup",
+        "category": "NN",
+        "frequency": 7
+    },
+    {
+        "id": 220,
+        "text": "tea",
+        "category": "NN",
+        "frequency": 7
+    },
+    {
+        "id": 221,
+        "text": "amazing",
+        "category": "JJ",
+        "frequency": 19
+    },
+    {
+        "id": 222,
+        "text": "mom",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 223,
+        "text": "serious",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 224,
+        "text": "safe",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 225,
+        "text": "trip",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 226,
+        "text": "anna",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 227,
+        "text": "glad",
+        "category": "NN",
+        "frequency": 10
+    },
+    {
+        "id": 228,
+        "text": "re",
+        "category": "VBP",
+        "frequency": 23
+    },
+    {
+        "id": 229,
+        "text": "life",
+        "category": "NN",
+        "frequency": 10
+    },
+    {
+        "id": 230,
+        "text": "am",
+        "category": "VBP",
+        "frequency": 29
+    },
+    {
+        "id": 231,
+        "text": "sorry",
+        "category": "JJ",
+        "frequency": 19
+    },
+    {
+        "id": 232,
+        "text": "stand",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 233,
+        "text": "trevor",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 234,
+        "text": "wish",
+        "category": "VBP",
+        "frequency": 9
+    },
+    {
+        "id": 235,
+        "text": "well",
+        "category": "RB",
+        "frequency": 15
+    },
+    {
+        "id": 236,
+        "text": "door",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 237,
+        "text": "breeze",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 238,
+        "text": "marnie",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 239,
+        "text": "cold",
+        "category": "JJ",
+        "frequency": 13
+    },
+    {
+        "id": 240,
+        "text": "very",
+        "category": "RB",
+        "frequency": 20
+    },
+    {
+        "id": 241,
+        "text": "humid",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 242,
+        "text": "party",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 243,
+        "text": "glasses",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 244,
+        "text": "pillow",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 245,
+        "text": "bath",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 246,
+        "text": "blow",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 247,
+        "text": "nose",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 248,
+        "text": "feet",
+        "category": "NNS",
+        "frequency": 4
+    },
+    {
+        "id": 249,
+        "text": "slippers",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 250,
+        "text": "contact",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 251,
+        "text": "lenses",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 252,
+        "text": "new",
+        "category": "JJ",
+        "frequency": 9
+    },
+    {
+        "id": 253,
+        "text": "one",
+        "category": "CD",
+        "frequency": 10
+    },
+    {
+        "id": 254,
+        "text": "careful",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 255,
+        "text": "many",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 256,
+        "text": "more",
+        "category": "JJR",
+        "frequency": 18
+    },
+    {
+        "id": 257,
+        "text": "favor",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 258,
+        "text": "find",
+        "category": "VB",
+        "frequency": 4
+    },
+    {
+        "id": 259,
+        "text": "watch",
+        "category": "NN",
+        "frequency": 17
+    },
+    {
+        "id": 260,
+        "text": "why",
+        "category": "WRB",
+        "frequency": 35
+    },
+    {
+        "id": 261,
+        "text": "curious",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 262,
+        "text": "was",
+        "category": "VBD",
+        "frequency": 31
+    },
+    {
+        "id": 263,
+        "text": "perfect",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 264,
+        "text": "got",
+        "category": "VBD",
+        "frequency": 8
+    },
+    {
+        "id": 265,
+        "text": "idea",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 266,
+        "text": "from",
+        "category": "IN",
+        "frequency": 9
+    },
+    {
+        "id": 267,
+        "text": "accept",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 268,
+        "text": "decision",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 269,
+        "text": "trying",
+        "category": "VBG",
+        "frequency": 14
+    },
+    {
+        "id": 270,
+        "text": "handle",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 271,
+        "text": "next",
+        "category": "JJ",
+        "frequency": 10
+    },
+    {
+        "id": 272,
+        "text": "gross",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 273,
+        "text": "had",
+        "category": "VBD",
+        "frequency": 11
+    },
+    {
+        "id": 274,
+        "text": "visit",
+        "category": "VB",
+        "frequency": 4
+    },
+    {
+        "id": 275,
+        "text": "relatives",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 276,
+        "text": "anticipate",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 277,
+        "text": "use",
+        "category": "VB",
+        "frequency": 13
+    },
+    {
+        "id": 278,
+        "text": "input",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 279,
+        "text": "keep",
+        "category": "VB",
+        "frequency": 15
+    },
+    {
+        "id": 280,
+        "text": "busy",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 281,
+        "text": "talk",
+        "category": "NN",
+        "frequency": 29
+    },
+    {
+        "id": 282,
+        "text": "soon",
+        "category": "RB",
+        "frequency": 15
+    },
+    {
+        "id": 283,
+        "text": "getting",
+        "category": "VBG",
+        "frequency": 8
+    },
+    {
+        "id": 284,
+        "text": "ready",
+        "category": "JJ",
+        "frequency": 10
+    },
+    {
+        "id": 285,
+        "text": "bed",
+        "category": "NN",
+        "frequency": 11
+    },
+    {
+        "id": 286,
+        "text": "go",
+        "category": "VB",
+        "frequency": 75
+    },
+    {
+        "id": 287,
+        "text": "show",
+        "category": "NN",
+        "frequency": 7
+    },
+    {
+        "id": 288,
+        "text": "homework",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 289,
+        "text": "stop",
+        "category": "NN",
+        "frequency": 12
+    },
+    {
+        "id": 290,
+        "text": "set",
+        "category": "VBD",
+        "frequency": 5
+    },
+    {
+        "id": 291,
+        "text": "table",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 292,
+        "text": "know",
+        "category": "VB",
+        "frequency": 48
+    },
+    {
+        "id": 293,
+        "text": "complain",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 294,
+        "text": "down",
+        "category": "RP",
+        "frequency": 10
+    },
+    {
+        "id": 295,
+        "text": "agree",
+        "category": "VB",
+        "frequency": 15
+    },
+    {
+        "id": 296,
+        "text": "less",
+        "category": "JJR",
+        "frequency": 2
+    },
+    {
+        "id": 297,
+        "text": "right",
+        "category": "JJ",
+        "frequency": 35
+    },
+    {
+        "id": 298,
+        "text": "wrong",
+        "category": "JJ",
+        "frequency": 18
+    },
+    {
+        "id": 299,
+        "text": "sure",
+        "category": "JJ",
+        "frequency": 7
+    },
+    {
+        "id": 300,
+        "text": "rest",
+        "category": "VB",
+        "frequency": 4
+    },
+    {
+        "id": 301,
+        "text": "alone",
+        "category": "RB",
+        "frequency": 5
+    },
+    {
+        "id": 302,
+        "text": "mail",
+        "category": "VB",
+        "frequency": 6
+    },
+    {
+        "id": 303,
+        "text": "movie",
+        "category": "NN",
+        "frequency": 9
+    },
+    {
+        "id": 304,
+        "text": "bring",
+        "category": "VB",
+        "frequency": 9
+    },
+    {
+        "id": 305,
+        "text": "comfortable",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 306,
+        "text": "everything",
+        "category": "NN",
+        "frequency": 12
+    },
+    {
+        "id": 307,
+        "text": "yes",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 308,
+        "text": "may",
+        "category": "MD",
+        "frequency": 9
+    },
+    {
+        "id": 309,
+        "text": "interrupt",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 310,
+        "text": "doubt",
+        "category": "VBP",
+        "frequency": 5
+    },
+    {
+        "id": 311,
+        "text": "didn",
+        "category": "VB",
+        "frequency": 14
+    },
+    {
+        "id": 312,
+        "text": "she",
+        "category": "PRP",
+        "frequency": 13
+    },
+    {
+        "id": 313,
+        "text": "were",
+        "category": "VBD",
+        "frequency": 9
+    },
+    {
+        "id": 314,
+        "text": "they",
+        "category": "PRP",
+        "frequency": 15
+    },
+    {
+        "id": 315,
+        "text": "sitting",
+        "category": "VBG",
+        "frequency": 3
+    },
+    {
+        "id": 316,
+        "text": "concerned",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 317,
+        "text": "prepare",
+        "category": "VB",
+        "frequency": 6
+    },
+    {
+        "id": 318,
+        "text": "but",
+        "category": "CC",
+        "frequency": 3
+    },
+    {
+        "id": 319,
+        "text": "appointment",
+        "category": "NN",
+        "frequency": 8
+    },
+    {
+        "id": 320,
+        "text": "practice",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 321,
+        "text": "makes",
+        "category": "VBZ",
+        "frequency": 7
+    },
+    {
+        "id": 322,
+        "text": "interesting",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 323,
+        "text": "uh",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 324,
+        "text": "huh",
+        "category": "NN",
+        "frequency": 8
+    },
+    {
+        "id": 325,
+        "text": "leaving",
+        "category": "VBG",
+        "frequency": 3
+    },
+    {
+        "id": 326,
+        "text": "lost",
+        "category": "VBN",
+        "frequency": 2
+    },
+    {
+        "id": 327,
+        "text": "their",
+        "category": "PRP$",
+        "frequency": 2
+    },
+    {
+        "id": 328,
+        "text": "mind",
+        "category": "NN",
+        "frequency": 20
+    },
+    {
+        "id": 329,
+        "text": "finished",
+        "category": "VBN",
+        "frequency": 6
+    },
+    {
+        "id": 330,
+        "text": "feeling",
+        "category": "VBP",
+        "frequency": 6
+    },
+    {
+        "id": 331,
+        "text": "left",
+        "category": "VBD",
+        "frequency": 6
+    },
+    {
+        "id": 332,
+        "text": "thirsty",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 333,
+        "text": "these",
+        "category": "DT",
+        "frequency": 3
+    },
+    {
+        "id": 334,
+        "text": "idioms",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 335,
+        "text": "score",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 336,
+        "text": "then",
+        "category": "RB",
+        "frequency": 5
+    },
+    {
+        "id": 337,
+        "text": "wake",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 338,
+        "text": "fuck",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 339,
+        "text": "malfunction",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 340,
+        "text": "okie",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 341,
+        "text": "dokie",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 342,
+        "text": "leave",
+        "category": "VB",
+        "frequency": 6
+    },
+    {
+        "id": 343,
+        "text": "give",
+        "category": "VB",
+        "frequency": 10
+    },
+    {
+        "id": 344,
+        "text": "hand",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 345,
+        "text": "computer",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 346,
+        "text": "yourself",
+        "category": "PRP",
+        "frequency": 2
+    },
+    {
+        "id": 347,
+        "text": "goodnight",
+        "category": "VBN",
+        "frequency": 6
+    },
+    {
+        "id": 348,
+        "text": "fast",
+        "category": "RB",
+        "frequency": 6
+    },
+    {
+        "id": 349,
+        "text": "haven",
+        "category": "RB",
+        "frequency": 4
+    },
+    {
+        "id": 350,
+        "text": "yet",
+        "category": "RB",
+        "frequency": 6
+    },
+    {
+        "id": 351,
+        "text": "morning",
+        "category": "NN",
+        "frequency": 10
+    },
+    {
+        "id": 352,
+        "text": "once",
+        "category": "RB",
+        "frequency": 6
+    },
+    {
+        "id": 353,
+        "text": "twice",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 354,
+        "text": "lettuce",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 355,
+        "text": "tomato",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 356,
+        "text": "sandwich",
+        "category": "JJ",
+        "frequency": 11
+    },
+    {
+        "id": 357,
+        "text": "her",
+        "category": "PRP$",
+        "frequency": 10
+    },
+    {
+        "id": 358,
+        "text": "patient",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 359,
+        "text": "mad",
+        "category": "VB",
+        "frequency": 7
+    },
+    {
+        "id": 360,
+        "text": "having",
+        "category": "VBG",
+        "frequency": 8
+    },
+    {
+        "id": 361,
+        "text": "sounds",
+        "category": "VBZ",
+        "frequency": 6
+    },
+    {
+        "id": 362,
+        "text": "confusing",
+        "category": "VBG",
+        "frequency": 2
+    },
+    {
+        "id": 363,
+        "text": "hurts",
+        "category": "VBZ",
+        "frequency": 4
+    },
+    {
+        "id": 364,
+        "text": "jerk",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 365,
+        "text": "flight",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 366,
+        "text": "sunny",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 367,
+        "text": "lucas",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 368,
+        "text": "foggy",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 369,
+        "text": "jeff",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 370,
+        "text": "cloudy",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 371,
+        "text": "worry",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 372,
+        "text": "rain",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 373,
+        "text": "forecast",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 374,
+        "text": "enjoy",
+        "category": "VB",
+        "frequency": 6
+    },
+    {
+        "id": 375,
+        "text": "vacation",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 376,
+        "text": "luck",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 377,
+        "text": "happy",
+        "category": "JJ",
+        "frequency": 13
+    },
+    {
+        "id": 378,
+        "text": "anniversary",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 379,
+        "text": "putting",
+        "category": "VBG",
+        "frequency": 3
+    },
+    {
+        "id": 380,
+        "text": "picking",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 381,
+        "text": "request",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 382,
+        "text": "excellent",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 383,
+        "text": "way",
+        "category": "NN",
+        "frequency": 15
+    },
+    {
+        "id": 384,
+        "text": "oh",
+        "category": "IN",
+        "frequency": 2
+    },
+    {
+        "id": 385,
+        "text": "god",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 386,
+        "text": "kidding",
+        "category": "NN",
+        "frequency": 8
+    },
+    {
+        "id": 387,
+        "text": "nasty",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 388,
+        "text": "explain",
+        "category": "VBP",
+        "frequency": 5
+    },
+    {
+        "id": 389,
+        "text": "person",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 390,
+        "text": "touch",
+        "category": "IN",
+        "frequency": 3
+    },
+    {
+        "id": 391,
+        "text": "problem",
+        "category": "NN",
+        "frequency": 7
+    },
+    {
+        "id": 392,
+        "text": "healthy",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 393,
+        "text": "last",
+        "category": "JJ",
+        "frequency": 9
+    },
+    {
+        "id": 394,
+        "text": "straw",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 395,
+        "text": "desperate",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 396,
+        "text": "mess",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 397,
+        "text": "wonderful",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 398,
+        "text": "missed",
+        "category": "VBD",
+        "frequency": 10
+    },
+    {
+        "id": 399,
+        "text": "boat",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 400,
+        "text": "answer",
+        "category": "VB",
+        "frequency": 7
+    },
+    {
+        "id": 401,
+        "text": "phone",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 402,
+        "text": "funny",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 403,
+        "text": "who",
+        "category": "WP",
+        "frequency": 18
+    },
+    {
+        "id": 404,
+        "text": "said",
+        "category": "VBD",
+        "frequency": 11
+    },
+    {
+        "id": 405,
+        "text": "possibly",
+        "category": "RB",
+        "frequency": 3
+    },
+    {
+        "id": 406,
+        "text": "happen",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 407,
+        "text": "won",
+        "category": "VBD",
+        "frequency": 5
+    },
+    {
+        "id": 408,
+        "text": "coming",
+        "category": "VBG",
+        "frequency": 7
+    },
+    {
+        "id": 409,
+        "text": "ta",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 410,
+        "text": "ok",
+        "category": "VBP",
+        "frequency": 12
+    },
+    {
+        "id": 411,
+        "text": "home",
+        "category": "RB",
+        "frequency": 5
+    },
+    {
+        "id": 412,
+        "text": "isn",
+        "category": "NN",
+        "frequency": 7
+    },
+    {
+        "id": 413,
+        "text": "cool",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 414,
+        "text": "hands",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 415,
+        "text": "movies",
+        "category": "NNS",
+        "frequency": 6
+    },
+    {
+        "id": 416,
+        "text": "doesn",
+        "category": "VBD",
+        "frequency": 12
+    },
+    {
+        "id": 417,
+        "text": "bathroom",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 418,
+        "text": "off",
+        "category": "RP",
+        "frequency": 15
+    },
+    {
+        "id": 419,
+        "text": "pick",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 420,
+        "text": "headache",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 421,
+        "text": "clean",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 422,
+        "text": "changed",
+        "category": "VBD",
+        "frequency": 2
+    },
+    {
+        "id": 423,
+        "text": "misunderstood",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 424,
+        "text": "bedpan",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 425,
+        "text": "hello",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 426,
+        "text": "hi",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 427,
+        "text": "hazel",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 428,
+        "text": "sandro",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 429,
+        "text": "kayla",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 430,
+        "text": "raz",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 431,
+        "text": "oops",
+        "category": "VBZ",
+        "frequency": 2
+    },
+    {
+        "id": 432,
+        "text": "pardon",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 433,
+        "text": "thank",
+        "category": "VB",
+        "frequency": 12
+    },
+    {
+        "id": 434,
+        "text": "look",
+        "category": "VBP",
+        "frequency": 13
+    },
+    {
+        "id": 435,
+        "text": "bored",
+        "category": "VBN",
+        "frequency": 2
+    },
+    {
+        "id": 436,
+        "text": "sad",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 437,
+        "text": "family",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 438,
+        "text": "tired",
+        "category": "VBN",
+        "frequency": 8
+    },
+    {
+        "id": 439,
+        "text": "week",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 440,
+        "text": "quite",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 441,
+        "text": "takes",
+        "category": "VBZ",
+        "frequency": 4
+    },
+    {
+        "id": 442,
+        "text": "late",
+        "category": "RB",
+        "frequency": 6
+    },
+    {
+        "id": 443,
+        "text": "night",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 444,
+        "text": "glass",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 445,
+        "text": "water",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 446,
+        "text": "dessert",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 447,
+        "text": "dressed",
+        "category": "VBN",
+        "frequency": 4
+    },
+    {
+        "id": 448,
+        "text": "hungry",
+        "category": "NN",
+        "frequency": 10
+    },
+    {
+        "id": 449,
+        "text": "breakfast",
+        "category": "NN",
+        "frequency": 15
+    },
+    {
+        "id": 450,
+        "text": "lights",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 451,
+        "text": "blew",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 452,
+        "text": "disagree",
+        "category": "VBP",
+        "frequency": 3
+    },
+    {
+        "id": 453,
+        "text": "messed",
+        "category": "VBD",
+        "frequency": 2
+    },
+    {
+        "id": 454,
+        "text": "enough",
+        "category": "IN",
+        "frequency": 6
+    },
+    {
+        "id": 455,
+        "text": "pleasure",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 456,
+        "text": "meeting",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 457,
+        "text": "thinking",
+        "category": "VBG",
+        "frequency": 2
+    },
+    {
+        "id": 458,
+        "text": "told",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 459,
+        "text": "properly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 460,
+        "text": "kitchen",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 461,
+        "text": "eat",
+        "category": "VB",
+        "frequency": 42
+    },
+    {
+        "id": 462,
+        "text": "reservation",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 463,
+        "text": "come",
+        "category": "VB",
+        "frequency": 20
+    },
+    {
+        "id": 464,
+        "text": "higher",
+        "category": "JJR",
+        "frequency": 1
+    },
+    {
+        "id": 465,
+        "text": "excuse",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 466,
+        "text": "interrupting",
+        "category": "VBG",
+        "frequency": 4
+    },
+    {
+        "id": 467,
+        "text": "bands",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 468,
+        "text": "old",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 469,
+        "text": "job",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 470,
+        "text": "patriots",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 471,
+        "text": "subject",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 472,
+        "text": "start",
+        "category": "VB",
+        "frequency": 4
+    },
+    {
+        "id": 473,
+        "text": "saying",
+        "category": "VBG",
+        "frequency": 8
+    },
+    {
+        "id": 474,
+        "text": "rephrase",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 475,
+        "text": "before",
+        "category": "IN",
+        "frequency": 4
+    },
+    {
+        "id": 476,
+        "text": "often",
+        "category": "RB",
+        "frequency": 5
+    },
+    {
+        "id": 477,
+        "text": "still",
+        "category": "RB",
+        "frequency": 8
+    },
+    {
+        "id": 478,
+        "text": "eaten",
+        "category": "VBP",
+        "frequency": 1
+    },
+    {
+        "id": 479,
+        "text": "waiting",
+        "category": "VBG",
+        "frequency": 4
+    },
+    {
+        "id": 480,
+        "text": "leg",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 481,
+        "text": "munch",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 482,
+        "text": "nuts",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 483,
+        "text": "candy",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 484,
+        "text": "bar",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 485,
+        "text": "cherise",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 486,
+        "text": "pair",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 487,
+        "text": "eggs",
+        "category": "NNS",
+        "frequency": 7
+    },
+    {
+        "id": 488,
+        "text": "poached",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 489,
+        "text": "food",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 490,
+        "text": "scared",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 491,
+        "text": "death",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 492,
+        "text": "sleepy",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 493,
+        "text": "important",
+        "category": "JJ",
+        "frequency": 5
+    },
+    {
+        "id": 494,
+        "text": "always",
+        "category": "RB",
+        "frequency": 9
+    },
+    {
+        "id": 495,
+        "text": "heart",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 496,
+        "text": "makeup",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 497,
+        "text": "check",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 498,
+        "text": "believe",
+        "category": "VBP",
+        "frequency": 8
+    },
+    {
+        "id": 499,
+        "text": "break",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 500,
+        "text": "straighten",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 501,
+        "text": "room",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 502,
+        "text": "does",
+        "category": "VBZ",
+        "frequency": 11
+    },
+    {
+        "id": 503,
+        "text": "sense",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 504,
+        "text": "hurt",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 505,
+        "text": "day",
+        "category": "NN",
+        "frequency": 26
+    },
+    {
+        "id": 506,
+        "text": "plan",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 507,
+        "text": "pants",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 508,
+        "text": "hair",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 509,
+        "text": "head",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 510,
+        "text": "machine",
+        "category": "NN",
+        "frequency": 7
+    },
+    {
+        "id": 511,
+        "text": "communicate",
+        "category": "VB",
+        "frequency": 5
+    },
+    {
+        "id": 512,
+        "text": "correct",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 513,
+        "text": "meant",
+        "category": "VBD",
+        "frequency": 2
+    },
+    {
+        "id": 514,
+        "text": "else",
+        "category": "RB",
+        "frequency": 6
+    },
+    {
+        "id": 515,
+        "text": "heard",
+        "category": "VBN",
+        "frequency": 4
+    },
+    {
+        "id": 516,
+        "text": "allows",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 517,
+        "text": "remember",
+        "category": "VBP",
+        "frequency": 4
+    },
+    {
+        "id": 518,
+        "text": "easy",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 519,
+        "text": "rather",
+        "category": "RB",
+        "frequency": 3
+    },
+    {
+        "id": 520,
+        "text": "share",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 521,
+        "text": "nigga",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 522,
+        "text": "beautiful",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 523,
+        "text": "adjustment",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 524,
+        "text": "nagging",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 525,
+        "text": "shave",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 526,
+        "text": "shower",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 527,
+        "text": "eating",
+        "category": "VBG",
+        "frequency": 4
+    },
+    {
+        "id": 528,
+        "text": "massage",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 529,
+        "text": "wide",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 530,
+        "text": "awake",
+        "category": "VBP",
+        "frequency": 1
+    },
+    {
+        "id": 531,
+        "text": "full",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 532,
+        "text": "shoes",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 533,
+        "text": "fish",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 534,
+        "text": "steak",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 535,
+        "text": "banana",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 536,
+        "text": "soup",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 537,
+        "text": "bowl",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 538,
+        "text": "blueberries",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 539,
+        "text": "coffee",
+        "category": "NN",
+        "frequency": 5
+    },
+    {
+        "id": 540,
+        "text": "black",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 541,
+        "text": "message",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 542,
+        "text": "mr",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 543,
+        "text": "lomba",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 544,
+        "text": "calling",
+        "category": "VBG",
+        "frequency": 3
+    },
+    {
+        "id": 545,
+        "text": "cranky",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 546,
+        "text": "john",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 547,
+        "text": "shirt",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 548,
+        "text": "ridiculous",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 549,
+        "text": "ah",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 550,
+        "text": "sakes",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 551,
+        "text": "unbelievable",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 552,
+        "text": "unfortunately",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 553,
+        "text": "gone",
+        "category": "VBN",
+        "frequency": 3
+    },
+    {
+        "id": 554,
+        "text": "bedroom",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 555,
+        "text": "dentist",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 556,
+        "text": "bothers",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 557,
+        "text": "remove",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 558,
+        "text": "flat",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 559,
+        "text": "evening",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 560,
+        "text": "called",
+        "category": "VBD",
+        "frequency": 4
+    },
+    {
+        "id": 561,
+        "text": "cramping",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 562,
+        "text": "cookie",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 563,
+        "text": "crumbles",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 564,
+        "text": "under",
+        "category": "IN",
+        "frequency": 2
+    },
+    {
+        "id": 565,
+        "text": "neck",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 566,
+        "text": "dan",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 567,
+        "text": "wiped",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 568,
+        "text": "grade",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 569,
+        "text": "brush",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 570,
+        "text": "president",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 571,
+        "text": "speak",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 572,
+        "text": "repeat",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 573,
+        "text": "anyone",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 574,
+        "text": "ideas",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 575,
+        "text": "talking",
+        "category": "VBG",
+        "frequency": 7
+    },
+    {
+        "id": 576,
+        "text": "sleep",
+        "category": "JJ",
+        "frequency": 6
+    },
+    {
+        "id": 577,
+        "text": "tight",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 578,
+        "text": "fine",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 579,
+        "text": "frustrated",
+        "category": "VBN",
+        "frequency": 2
+    },
+    {
+        "id": 580,
+        "text": "welcome",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 581,
+        "text": "as",
+        "category": "RB",
+        "frequency": 11
+    },
+    {
+        "id": 582,
+        "text": "possible",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 583,
+        "text": "earlier",
+        "category": "RBR",
+        "frequency": 1
+    },
+    {
+        "id": 584,
+        "text": "came",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 585,
+        "text": "might",
+        "category": "MD",
+        "frequency": 1
+    },
+    {
+        "id": 586,
+        "text": "seem",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 587,
+        "text": "french",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 588,
+        "text": "fries",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 589,
+        "text": "raisins",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 590,
+        "text": "orange",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 591,
+        "text": "plain",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 592,
+        "text": "bagel",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 593,
+        "text": "cheese",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 594,
+        "text": "tuna",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 595,
+        "text": "pizza",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 596,
+        "text": "him",
+        "category": "PRP",
+        "frequency": 7
+    },
+    {
+        "id": 597,
+        "text": "terrible",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 598,
+        "text": "between",
+        "category": "IN",
+        "frequency": 1
+    },
+    {
+        "id": 599,
+        "text": "knees",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 600,
+        "text": "starving",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 601,
+        "text": "knife",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 602,
+        "text": "happens",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 603,
+        "text": "every",
+        "category": "DT",
+        "frequency": 3
+    },
+    {
+        "id": 604,
+        "text": "meat",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 605,
+        "text": "hate",
+        "category": "VBP",
+        "frequency": 4
+    },
+    {
+        "id": 606,
+        "text": "rub",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 607,
+        "text": "shoulders",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 608,
+        "text": "aggravating",
+        "category": "VBG",
+        "frequency": 2
+    },
+    {
+        "id": 609,
+        "text": "zipper",
+        "category": "JJR",
+        "frequency": 1
+    },
+    {
+        "id": 610,
+        "text": "jacket",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 611,
+        "text": "arm",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 612,
+        "text": "most",
+        "category": "JJS",
+        "frequency": 2
+    },
+    {
+        "id": 613,
+        "text": "blue",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 614,
+        "text": "moon",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 615,
+        "text": "weekend",
+        "category": "NN",
+        "frequency": 10
+    },
+    {
+        "id": 616,
+        "text": "cereal",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 617,
+        "text": "few",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 618,
+        "text": "minutes",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 619,
+        "text": "pull",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 620,
+        "text": "shade",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 621,
+        "text": "enjoyed",
+        "category": "VBN",
+        "frequency": 3
+    },
+    {
+        "id": 622,
+        "text": "our",
+        "category": "PRP$",
+        "frequency": 4
+    },
+    {
+        "id": 623,
+        "text": "conversation",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 624,
+        "text": "optimistic",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 625,
+        "text": "professor",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 626,
+        "text": "noticed",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 627,
+        "text": "through",
+        "category": "IN",
+        "frequency": 5
+    },
+    {
+        "id": 628,
+        "text": "amos",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 629,
+        "text": "chris",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 630,
+        "text": "wayne",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 631,
+        "text": "another",
+        "category": "DT",
+        "frequency": 12
+    },
+    {
+        "id": 632,
+        "text": "snowy",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 633,
+        "text": "snow",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 634,
+        "text": "drizzling",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 635,
+        "text": "dark",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 636,
+        "text": "raining",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 637,
+        "text": "inside",
+        "category": "IN",
+        "frequency": 3
+    },
+    {
+        "id": 638,
+        "text": "blanket",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 639,
+        "text": "excited",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 640,
+        "text": "1",
+        "category": "CD",
+        "frequency": 1
+    },
+    {
+        "id": 641,
+        "text": "grab",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 642,
+        "text": "those",
+        "category": "DT",
+        "frequency": 2
+    },
+    {
+        "id": 643,
+        "text": "listen",
+        "category": "NNS",
+        "frequency": 7
+    },
+    {
+        "id": 644,
+        "text": "someone",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 645,
+        "text": "ought",
+        "category": "MD",
+        "frequency": 1
+    },
+    {
+        "id": 646,
+        "text": "pajamas",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 647,
+        "text": "absolutely",
+        "category": "RB",
+        "frequency": 4
+    },
+    {
+        "id": 648,
+        "text": "awful",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 649,
+        "text": "ohh",
+        "category": "IN",
+        "frequency": 6
+    },
+    {
+        "id": 650,
+        "text": "given",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 651,
+        "text": "possibility",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 652,
+        "text": "keys",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 653,
+        "text": "living",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 654,
+        "text": "works",
+        "category": "VBZ",
+        "frequency": 3
+    },
+    {
+        "id": 655,
+        "text": "intermittently",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 656,
+        "text": "thing",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 657,
+        "text": "lecture",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 658,
+        "text": "hurting",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 659,
+        "text": "child",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 660,
+        "text": "contagious",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 661,
+        "text": "truth",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 662,
+        "text": "rushed",
+        "category": "VBD",
+        "frequency": 2
+    },
+    {
+        "id": 663,
+        "text": "until",
+        "category": "IN",
+        "frequency": 4
+    },
+    {
+        "id": 664,
+        "text": "garbage",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 665,
+        "text": "certainly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 666,
+        "text": "wan",
+        "category": "VBP",
+        "frequency": 4
+    },
+    {
+        "id": 667,
+        "text": "na",
+        "category": "TO",
+        "frequency": 5
+    },
+    {
+        "id": 668,
+        "text": "side",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 669,
+        "text": "foot",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 670,
+        "text": "stomach",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 671,
+        "text": "point",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 672,
+        "text": "caused",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 673,
+        "text": "everyone",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 674,
+        "text": "hug",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 675,
+        "text": "deep",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 676,
+        "text": "end",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 677,
+        "text": "lonely",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 678,
+        "text": "scary",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 679,
+        "text": "sick",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 680,
+        "text": "snack",
+        "category": "NN",
+        "frequency": 6
+    },
+    {
+        "id": 681,
+        "text": "wow",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 682,
+        "text": "along",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 683,
+        "text": "sit",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 684,
+        "text": "practicing",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 685,
+        "text": "yep",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 686,
+        "text": "favorite",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 687,
+        "text": "sport",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 688,
+        "text": "information",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 689,
+        "text": "als",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 690,
+        "text": "medicine",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 691,
+        "text": "teeth",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 692,
+        "text": "school",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 693,
+        "text": "clever",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 694,
+        "text": "whoa",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 695,
+        "text": "ana",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 696,
+        "text": "meaning",
+        "category": "VBG",
+        "frequency": 4
+    },
+    {
+        "id": 697,
+        "text": "touchy",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 698,
+        "text": "yesterday",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 699,
+        "text": "forward",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 700,
+        "text": "almost",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 701,
+        "text": "first",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 702,
+        "text": "forever",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 703,
+        "text": "sooner",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 704,
+        "text": "short",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 705,
+        "text": "scheduled",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 706,
+        "text": "fork",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 707,
+        "text": "chicken",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 708,
+        "text": "pickles",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 709,
+        "text": "couldn",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 710,
+        "text": "chips",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 711,
+        "text": "drink",
+        "category": "VB",
+        "frequency": 4
+    },
+    {
+        "id": 712,
+        "text": "eel",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 713,
+        "text": "sushi",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 714,
+        "text": "green",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 715,
+        "text": "milk",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 716,
+        "text": "delicious",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 717,
+        "text": "restaurant",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 718,
+        "text": "ac",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 719,
+        "text": "waves",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 720,
+        "text": "walk",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 721,
+        "text": "beach",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 722,
+        "text": "magazine",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 723,
+        "text": "best",
+        "category": "JJS",
+        "frequency": 6
+    },
+    {
+        "id": 724,
+        "text": "partner",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 725,
+        "text": "wishes",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 726,
+        "text": "boy",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 727,
+        "text": "figure",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 728,
+        "text": "myself",
+        "category": "PRP",
+        "frequency": 2
+    },
+    {
+        "id": 729,
+        "text": "arrogant",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 730,
+        "text": "embarrassed",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 731,
+        "text": "shook",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 732,
+        "text": "freaked",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 733,
+        "text": "easier",
+        "category": "JJR",
+        "frequency": 2
+    },
+    {
+        "id": 734,
+        "text": "frustrates",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 735,
+        "text": "weird",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 736,
+        "text": "pretty",
+        "category": "RB",
+        "frequency": 4
+    },
+    {
+        "id": 737,
+        "text": "ugly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 738,
+        "text": "fun",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 739,
+        "text": "logical",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 740,
+        "text": "difficult",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 741,
+        "text": "laugh",
+        "category": "IN",
+        "frequency": 2
+    },
+    {
+        "id": 742,
+        "text": "asshole",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 743,
+        "text": "suction",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 744,
+        "text": "seeing",
+        "category": "VBG",
+        "frequency": 2
+    },
+    {
+        "id": 745,
+        "text": "cooler",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 746,
+        "text": "rainy",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 747,
+        "text": "looks",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 748,
+        "text": "blizzard",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 749,
+        "text": "snowing",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 750,
+        "text": "windy",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 751,
+        "text": "sun",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 752,
+        "text": "shining",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 753,
+        "text": "year",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 754,
+        "text": "bon",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 755,
+        "text": "voyage",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 756,
+        "text": "tissue",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 757,
+        "text": "dried",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 758,
+        "text": "relax",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 759,
+        "text": "ask",
+        "category": "VB",
+        "frequency": 7
+    },
+    {
+        "id": 760,
+        "text": "able",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 761,
+        "text": "wouldn",
+        "category": "VBP",
+        "frequency": 1
+    },
+    {
+        "id": 762,
+        "text": "opposite",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 763,
+        "text": "wheelchair",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 764,
+        "text": "fixed",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 765,
+        "text": "same",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 766,
+        "text": "deal",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 767,
+        "text": "around",
+        "category": "IN",
+        "frequency": 2
+    },
+    {
+        "id": 768,
+        "text": "comment",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 769,
+        "text": "refuse",
+        "category": "VBP",
+        "frequency": 2
+    },
+    {
+        "id": 770,
+        "text": "shoot",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 771,
+        "text": "treatment",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 772,
+        "text": "gave",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 773,
+        "text": "final",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 774,
+        "text": "word",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 775,
+        "text": "alive",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 776,
+        "text": "choice",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 777,
+        "text": "suddenly",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 778,
+        "text": "becomes",
+        "category": "VBZ",
+        "frequency": 2
+    },
+    {
+        "id": 779,
+        "text": "anyway",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 780,
+        "text": "bet",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 781,
+        "text": "ass",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 782,
+        "text": "kids",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 783,
+        "text": "pack",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 784,
+        "text": "theater",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 785,
+        "text": "perfectly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 786,
+        "text": "incorrect",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 787,
+        "text": "made",
+        "category": "VBD",
+        "frequency": 2
+    },
+    {
+        "id": 788,
+        "text": "ball",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 789,
+        "text": "listening",
+        "category": "VBG",
+        "frequency": 2
+    },
+    {
+        "id": 790,
+        "text": "schedule",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 791,
+        "text": "fall",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 792,
+        "text": "disappointed",
+        "category": "VBN",
+        "frequency": 3
+    },
+    {
+        "id": 793,
+        "text": "spring",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 794,
+        "text": "winter",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 795,
+        "text": "soap",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 796,
+        "text": "matter",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 797,
+        "text": "looking",
+        "category": "VBG",
+        "frequency": 3
+    },
+    {
+        "id": 798,
+        "text": "doctor",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 799,
+        "text": "date",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 800,
+        "text": "dream",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 801,
+        "text": "kiss",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 802,
+        "text": "even",
+        "category": "RB",
+        "frequency": 2
+    },
+    {
+        "id": 803,
+        "text": "worse",
+        "category": "JJR",
+        "frequency": 1
+    },
+    {
+        "id": 804,
+        "text": "unpack",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 805,
+        "text": "pleasant",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 806,
+        "text": "dreams",
+        "category": "VBZ",
+        "frequency": 2
+    },
+    {
+        "id": 807,
+        "text": "floor",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 808,
+        "text": "expecting",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 809,
+        "text": "english",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 810,
+        "text": "muffin",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 811,
+        "text": "cramps",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 812,
+        "text": "gon",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 813,
+        "text": "exhausted",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 814,
+        "text": "sweet",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 815,
+        "text": "softer",
+        "category": "JJR",
+        "frequency": 1
+    },
+    {
+        "id": 816,
+        "text": "lower",
+        "category": "JJR",
+        "frequency": 1
+    },
+    {
+        "id": 817,
+        "text": "afraid",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 818,
+        "text": "questions",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 819,
+        "text": "brothers",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 820,
+        "text": "sisters",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 821,
+        "text": "hobbies",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 822,
+        "text": "into",
+        "category": "IN",
+        "frequency": 2
+    },
+    {
+        "id": 823,
+        "text": "reach",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 824,
+        "text": "bother",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 825,
+        "text": "after",
+        "category": "IN",
+        "frequency": 1
+    },
+    {
+        "id": 826,
+        "text": "cut",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 827,
+        "text": "patience",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 828,
+        "text": "bite",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 829,
+        "text": "save",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 830,
+        "text": "tastes",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 831,
+        "text": "napkin",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 832,
+        "text": "salty",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 833,
+        "text": "piece",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 834,
+        "text": "cake",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 835,
+        "text": "pretzels",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 836,
+        "text": "potatoes",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 837,
+        "text": "fruit",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 838,
+        "text": "noodles",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 839,
+        "text": "scrambled",
+        "category": "VBN",
+        "frequency": 2
+    },
+    {
+        "id": 840,
+        "text": "oatmeal",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 841,
+        "text": "pasta",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 842,
+        "text": "dog",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 843,
+        "text": "sugar",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 844,
+        "text": "peanut",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 845,
+        "text": "butter",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 846,
+        "text": "ketchup",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 847,
+        "text": "making",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 848,
+        "text": "pancakes",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 849,
+        "text": "dapper",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 850,
+        "text": "onions",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 851,
+        "text": "things",
+        "category": "NNS",
+        "frequency": 4
+    },
+    {
+        "id": 852,
+        "text": "lot",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 853,
+        "text": "different",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 854,
+        "text": "sports",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 855,
+        "text": "car",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 856,
+        "text": "rides",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 857,
+        "text": "ocean",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 858,
+        "text": "sunset",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 859,
+        "text": "appreciate",
+        "category": "VBP",
+        "frequency": 3
+    },
+    {
+        "id": 860,
+        "text": "friendship",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 861,
+        "text": "thoughtfulness",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 862,
+        "text": "number",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 863,
+        "text": "dial",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 864,
+        "text": "being",
+        "category": "VBG",
+        "frequency": 5
+    },
+    {
+        "id": 865,
+        "text": "helping",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 866,
+        "text": "such",
+        "category": "JJ",
+        "frequency": 4
+    },
+    {
+        "id": 867,
+        "text": "friend",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 868,
+        "text": "anybody",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 869,
+        "text": "support",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 870,
+        "text": "honestly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 871,
+        "text": "imagination",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 872,
+        "text": "hassle",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 873,
+        "text": "fair",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 874,
+        "text": "proud",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 875,
+        "text": "miss",
+        "category": "VB",
+        "frequency": 2
+    },
+    {
+        "id": 876,
+        "text": "holding",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 877,
+        "text": "alright",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 878,
+        "text": "mother",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 879,
+        "text": "together",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 880,
+        "text": "l",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 881,
+        "text": "sucks",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 882,
+        "text": "son",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 883,
+        "text": "soul",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 884,
+        "text": "mate",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 885,
+        "text": "pity",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 886,
+        "text": "lose",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 887,
+        "text": "dignity",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 888,
+        "text": "disease",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 889,
+        "text": "has",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 890,
+        "text": "madhavi",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 891,
+        "text": "went",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 892,
+        "text": "bright",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 893,
+        "text": "pouring",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 894,
+        "text": "cat",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 895,
+        "text": "dogs",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 896,
+        "text": "gorgeous",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 897,
+        "text": "slippery",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 898,
+        "text": "stars",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 899,
+        "text": "twinkling",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 900,
+        "text": "birthday",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 901,
+        "text": "weather",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 902,
+        "text": "hanukkah",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 903,
+        "text": "merry",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 904,
+        "text": "christmas",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 905,
+        "text": "ipad",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 906,
+        "text": "laptop",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 907,
+        "text": "moving",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 908,
+        "text": "toothpaste",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 909,
+        "text": "fingernails",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 910,
+        "text": "mouthwash",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 911,
+        "text": "drive",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 912,
+        "text": "carefully",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 913,
+        "text": "bag",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 914,
+        "text": "toenails",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 915,
+        "text": "channel",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 916,
+        "text": "forgot",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 917,
+        "text": "mention",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 918,
+        "text": "remembered",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 919,
+        "text": "wondering",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 920,
+        "text": "dropped",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 921,
+        "text": "sane",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 922,
+        "text": "question",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 923,
+        "text": "choices",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 924,
+        "text": "impossible",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 925,
+        "text": "assignment",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 926,
+        "text": "tickets",
+        "category": "NNS",
+        "frequency": 2
+    },
+    {
+        "id": 927,
+        "text": "clothes",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 928,
+        "text": "cleaners",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 929,
+        "text": "pot",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 930,
+        "text": "laundry",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 931,
+        "text": "store",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 932,
+        "text": "feed",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 933,
+        "text": "fidgeting",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 934,
+        "text": "needs",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 935,
+        "text": "particular",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 936,
+        "text": "reason",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 937,
+        "text": "working",
+        "category": "VBG",
+        "frequency": 2
+    },
+    {
+        "id": 938,
+        "text": "hold",
+        "category": "VB",
+        "frequency": 3
+    },
+    {
+        "id": 939,
+        "text": "eyes",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 940,
+        "text": "summer",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 941,
+        "text": "afterwards",
+        "category": "RP",
+        "frequency": 1
+    },
+    {
+        "id": 942,
+        "text": "restroom",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 943,
+        "text": "which",
+        "category": "WDT",
+        "frequency": 1
+    },
+    {
+        "id": 944,
+        "text": "unload",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 945,
+        "text": "clear",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 946,
+        "text": "trouble",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 947,
+        "text": "overwhelmed",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 948,
+        "text": "sometimes",
+        "category": "RB",
+        "frequency": 6
+    },
+    {
+        "id": 949,
+        "text": "hip",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 950,
+        "text": "hop",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 951,
+        "text": "speaking",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 952,
+        "text": "dip",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 953,
+        "text": "spelling",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 954,
+        "text": "mayonnaise",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 955,
+        "text": "mustard",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 956,
+        "text": "soda",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 957,
+        "text": "apple",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 958,
+        "text": "iced",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 959,
+        "text": "omelet",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 960,
+        "text": "toast",
+        "category": "NN",
+        "frequency": 4
+    },
+    {
+        "id": 961,
+        "text": "ride",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 962,
+        "text": "fresh",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 963,
+        "text": "soccer",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 964,
+        "text": "tape",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 965,
+        "text": "lucky",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 966,
+        "text": "without",
+        "category": "IN",
+        "frequency": 1
+    },
+    {
+        "id": 967,
+        "text": "voice",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 968,
+        "text": "thankful",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 969,
+        "text": "anxious",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 970,
+        "text": "sides",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 971,
+        "text": "bothered",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 972,
+        "text": "nobody",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 973,
+        "text": "seems",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 974,
+        "text": "obvious",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 975,
+        "text": "wife",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 976,
+        "text": "ever",
+        "category": "RB",
+        "frequency": 3
+    },
+    {
+        "id": 977,
+        "text": "wanted",
+        "category": "VBN",
+        "frequency": 3
+    },
+    {
+        "id": 978,
+        "text": "spending",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 979,
+        "text": "determined",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 980,
+        "text": "exactly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 981,
+        "text": "scream",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 982,
+        "text": "upset",
+        "category": "IN",
+        "frequency": 2
+    },
+    {
+        "id": 983,
+        "text": "hardly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 984,
+        "text": "annoyed",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 985,
+        "text": "warmer",
+        "category": "JJR",
+        "frequency": 1
+    },
+    {
+        "id": 986,
+        "text": "warmth",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 987,
+        "text": "humidity",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 988,
+        "text": "air",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 989,
+        "text": "congratulations",
+        "category": "NNS",
+        "frequency": 4
+    },
+    {
+        "id": 990,
+        "text": "wedding",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 991,
+        "text": "news",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 992,
+        "text": "case",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 993,
+        "text": "guarantee",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 994,
+        "text": "discuss",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 995,
+        "text": "further",
+        "category": "JJ",
+        "frequency": 3
+    },
+    {
+        "id": 996,
+        "text": "bunch",
+        "category": "VBP",
+        "frequency": 1
+    },
+    {
+        "id": 997,
+        "text": "assholes",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 998,
+        "text": "remind",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 999,
+        "text": "game",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 1000,
+        "text": "light",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 1001,
+        "text": "fire",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1002,
+        "text": "fireplace",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1003,
+        "text": "fill",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 1004,
+        "text": "gas",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1005,
+        "text": "somewhere",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 1006,
+        "text": "overnight",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 1007,
+        "text": "road",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1008,
+        "text": "fold",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 1009,
+        "text": "forget",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1010,
+        "text": "alarm",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1011,
+        "text": "however",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 1012,
+        "text": "plans",
+        "category": "NNS",
+        "frequency": 3
+    },
+    {
+        "id": 1013,
+        "text": "hmm",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1014,
+        "text": "letter",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1015,
+        "text": "cost",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 1016,
+        "text": "shows",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 1017,
+        "text": "afternoon",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1018,
+        "text": "far",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 1019,
+        "text": "sometime",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 1020,
+        "text": "pictured",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 1021,
+        "text": "eh",
+        "category": "VBP",
+        "frequency": 1
+    },
+    {
+        "id": 1022,
+        "text": "someday",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1023,
+        "text": "artificial",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 1024,
+        "text": "chorico",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 1025,
+        "text": "cherries",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 1026,
+        "text": "juice",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1027,
+        "text": "jelly",
+        "category": "RB",
+        "frequency": 1
+    },
+    {
+        "id": 1028,
+        "text": "company",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 1029,
+        "text": "cute",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1030,
+        "text": "than",
+        "category": "IN",
+        "frequency": 2
+    },
+    {
+        "id": 1031,
+        "text": "daughter",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1032,
+        "text": "greatest",
+        "category": "JJS",
+        "frequency": 1
+    },
+    {
+        "id": 1033,
+        "text": "world",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 1034,
+        "text": "brother",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1035,
+        "text": "fear",
+        "category": "VBP",
+        "frequency": 1
+    },
+    {
+        "id": 1036,
+        "text": "loss",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1037,
+        "text": "frightened",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 1038,
+        "text": "illness",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1039,
+        "text": "graduation",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1040,
+        "text": "engagement",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1041,
+        "text": "celebrate",
+        "category": "VBP",
+        "frequency": 4
+    },
+    {
+        "id": 1042,
+        "text": "part",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 1043,
+        "text": "celebration",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1044,
+        "text": "cleaned",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 1045,
+        "text": "watching",
+        "category": "VBG",
+        "frequency": 1
+    },
+    {
+        "id": 1046,
+        "text": "willing",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 1047,
+        "text": "newspaper",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1048,
+        "text": "bus",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1049,
+        "text": "whose",
+        "category": "WP$",
+        "frequency": 1
+    },
+    {
+        "id": 1050,
+        "text": "dishes",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 1051,
+        "text": "chance",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1052,
+        "text": "agenda",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1053,
+        "text": "wheat",
+        "category": "NN",
+        "frequency": 3
+    },
+    {
+        "id": 1054,
+        "text": "jam",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 1055,
+        "text": "cookies",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 1056,
+        "text": "hamburger",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1057,
+        "text": "programmed",
+        "category": "VBD",
+        "frequency": 1
+    },
+    {
+        "id": 1058,
+        "text": "difference",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1059,
+        "text": "generous",
+        "category": "JJ",
+        "frequency": 2
+    },
+    {
+        "id": 1060,
+        "text": "strawberry",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 1061,
+        "text": "speech",
+        "category": "NN",
+        "frequency": 2
+    },
+    {
+        "id": 1062,
+        "text": "rhythm",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1063,
+        "text": "geez",
+        "category": "VBP",
+        "frequency": 1
+    },
+    {
+        "id": 1064,
+        "text": "turns",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 1065,
+        "text": "human",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 1066,
+        "text": "each",
+        "category": "DT",
+        "frequency": 1
+    },
+    {
+        "id": 1067,
+        "text": "other",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 1068,
+        "text": "grocery",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1069,
+        "text": "shopping",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1070,
+        "text": "opportunity",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1071,
+        "text": "definition",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1072,
+        "text": "us",
+        "category": "PRP",
+        "frequency": 1
+    },
+    {
+        "id": 1073,
+        "text": "imagine",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 1074,
+        "text": "understands",
+        "category": "VBZ",
+        "frequency": 1
+    },
+    {
+        "id": 1075,
+        "text": "unhappy",
+        "category": "JJ",
+        "frequency": 1
+    },
+    {
+        "id": 1076,
+        "text": "birth",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1077,
+        "text": "baby",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1078,
+        "text": "two",
+        "category": "CD",
+        "frequency": 1
+    },
+    {
+        "id": 1079,
+        "text": "hash",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1080,
+        "text": "browns",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 1081,
+        "text": "toasted",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 1082,
+        "text": "body",
+        "category": "NN",
+        "frequency": 1
+    },
+    {
+        "id": 1083,
+        "text": "affect",
+        "category": "VB",
+        "frequency": 1
+    },
+    {
+        "id": 1084,
+        "text": "prayers",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 1085,
+        "text": "thoughts",
+        "category": "NNS",
+        "frequency": 1
+    },
+    {
+        "id": 1086,
+        "text": "received",
+        "category": "VBN",
+        "frequency": 1
+    },
+    {
+        "id": 1087,
+        "text": "sausage",
+        "category": "NN",
+        "frequency": 1
+    }
+]

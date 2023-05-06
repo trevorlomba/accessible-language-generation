@@ -2,9 +2,12 @@ import os
 
 import openai
 from flask import Flask, redirect, render_template, request, url_for
+from flask_cors import CORS  # Add this line
 
 app = Flask(__name__)
+CORS(app)  # Add this line
 openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 
 @app.route("/", methods=("GET", "POST"))
@@ -19,17 +22,24 @@ def index():
         return redirect(url_for("index", result=response.choices[0].text))
 
     result = request.args.get("result")
-    return render_template("index.html", result=result)
+    return result
 
 
 def generate_prompt(animal):
-    return """Suggest three names for an animal that is a superhero.
+    return f"""Instruction: You are an AI language model designed to generate a group of three contextually relevant and helpful sentences for individuals with locked-in syndrome. These sentences should assist the user in communicating their needs to their caretakers, and should be based on the provided keyword. The user will then choose the best response to use in their conversation. Remember, the user is the one with locked-in syndrome, and the generated sentences should represent their communication to their caretakers. The sentences should resemble natural speech and address the user's needs.
 
-Animal: Cat
-Names: Captain Sharpclaw, Agent Fluffball, The Incredible Feline
-Animal: Dog
-Names: Ruff the Protector, Wonder Canine, Sir Barks-a-Lot
-Animal: {}
-Names:""".format(
-        animal.capitalize()
-    )
+Return the sentence as string.
+
+Example:
+Keyword: coffee
+I would like some coffee, please
+
+Keyword: bathroom
+I need to go to the bathroom
+
+Keyword: {animal}
+"""
+
+
+def generate_prompt2(animal):
+    return f"""just repeat this: {animal}"""
