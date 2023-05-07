@@ -43,3 +43,7 @@ Keyword: {animal}
 
 def generate_prompt2(animal):
     return f"""just repeat this: {animal}"""
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
