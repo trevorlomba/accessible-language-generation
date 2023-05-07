@@ -1,3 +1,4 @@
+from nltk.corpus import stopwords
 import json
 import re
 import nltk
@@ -6,6 +7,8 @@ import sqlite3
 
 # Replace with the path to your JSON file
 json_file = "MessageBank.json"
+
+# Add this line to import stopwords
 
 
 def read_json_file(json_file):
@@ -31,10 +34,18 @@ def preprocess_text(text):
 processed_text = preprocess_text(raw_text)
 words = nltk.word_tokenize(processed_text)
 
-nltk.download("averaged_perceptron_tagger")
-tagged_words = nltk.pos_tag(words)
+# Add this line to download stopwords
+nltk.download("stopwords")
 
-word_frequency = Counter(words)
+# Filter out stopwords
+stop_words = set(stopwords.words("english"))
+filtered_words = [word for word in words if word not in stop_words]
+
+nltk.download("averaged_perceptron_tagger")
+tagged_words = nltk.pos_tag(filtered_words)
+
+word_frequency = Counter(filtered_words)
+
 
 
 def create_database():

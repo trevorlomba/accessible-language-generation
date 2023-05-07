@@ -59,10 +59,11 @@ const WordCloud: React.FC<WordCloudProps> = ({ selectedWords, setSelectedWords }
 //   };
 
   const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+  const numbers = "12345676890".split("");
 
   return (
     <div>
-      <div>
+      <div style={{minHeight: "100px", maxHeight: "100px"}}>
         {selectedWords.map((val, i) => (
           <button key={i} value={val} onClick={() => handleAddWord(val)}style={{fontSize: "20px",
           margin: "5px",
@@ -72,36 +73,47 @@ const WordCloud: React.FC<WordCloudProps> = ({ selectedWords, setSelectedWords }
         ))}
         {selectedWords.length > 0 && (
         <div>
-        <button onClick={() => setSelectedWords([])}>Clear Selected Words</button>
+        <button style = {{backgroundColor: "lightgrey", fontSize:"20px"}} onClick={() => setSelectedWords([])}>Clear Selected Words</button>
       </div>)}</div>
 
       <div>
-        {alphabet.map((letter) => (
-          <button
-            key={letter}
-            onClick={() => handleLetterClick(letter)}
-            style={{ margin: "calc(1vw)", padding: "calc(1vw)", fontSize: "calc(100vw / 30)", borderRadius: "50%",}}
-          >
-            {letter}
-          </button>
-        ))}
-        <button style={{ margin: "10px", padding: "20px", fontSize: "15px", backgroundColor: "aqua"}} onClick={() => setSelectedLetters(selectedLetters.slice(0, -1))}>Backspace</button>
-        <div>
-        <button onClick={() => setSelectedLetters([])}>Clear Selected Letters</button>
-        <button onClick={handleAddSelectedLetters}>Add Selected Letters as Word</button>
-      </div></div>
-
-      <div>
+          <div>
+          <button style={{ margin: "1px", padding: "10px", fontSize: "20px", backgroundColor: "firebrick", color: "whitesmoke"}} onClick={() => setSelectedLetters(selectedLetters.slice(0, -1))}>Backspace</button>
+          <button style={{ margin: "1px", padding: "10px", fontSize: "20px", backgroundColor: "lightgrey"}} onClick={() => setSelectedLetters([]) }>Clear Selected Letters</button>
+          <button style={{ margin: "1px", padding: "10px", fontSize: "20px", backgroundColor: "lightskyblue", marginBottom: "20px"}}onClick={handleAddSelectedLetters}>Add Word</button>
+          <div>
         <label>
           <input
             type="checkbox"
             checked={clearLettersOnWordSelect}
+            style={{marginBottom: "20px"}}
             onChange={() => setClearLettersOnWordSelect(!clearLettersOnWordSelect)}
           />
           Clear selected letters when a new word is chosen
         </label>
       </div>
-        <div style={{margin: "20px", fontSize: "120px"}}>{selectedLetters}</div>
+        </div></div>
+        {alphabet.map((letter) => (
+          <button
+            key={letter}
+            onClick={() => handleLetterClick(letter)}
+            style={{ marginLeft: "calc(1vw)",paddingLeft: "calc(.7vw)", paddingRight: "calc(.7vw)", fontSize: "calc(3.5vw)", borderRadius: "50%",}}
+          >
+            {letter}
+          </button>
+        ))}
+        {numbers.map((letter) => (
+          <button
+            key={letter}
+            onClick={() => handleLetterClick(letter)}
+            style={{ marginLeft: "calc(1vw)", paddingLeft: "calc(.7vw)", paddingRight: "calc(.7vw)", fontSize: "calc(3.5vw)", borderRadius: "50%", color: "darkred"}}
+          >
+            {letter}
+          </button>
+        ))}
+
+  
+        <div style={{margin: "20px", fontSize: "50px", color: "blueviolet", minHeight:"50px"}}>{selectedLetters}</div>
 
 <div className={styles.wordCloud} style={{ margin: "auto", display: "flex", textAlign: "center" }}>
   {visibleWords
@@ -113,11 +125,12 @@ const WordCloud: React.FC<WordCloudProps> = ({ selectedWords, setSelectedWords }
         className={styles.word}
         style={{
           fontSize: `${computeFontSize(word.frequency)}px`,
-          backgroundColor: "black",
+          backgroundColor: "lightgrey",
           borderRadius: "50%",
           padding: "5px 10px",
           margin: "5px",
-          color: "white",
+          alignContent: "center",
+          color: "black",
           display: "inline-block",
           paddingTop: "20px",
           paddingBottom: "20px"

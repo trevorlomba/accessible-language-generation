@@ -45,20 +45,19 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <h1>Sentence Generator</h1>
-
+<div style={{minHeight: "125px"}}>
       {result && (
         <div>
-          <h2>Phrases</h2>
           <p>
             {result.map((item, index) => (
-              <div key={index}>
+              <div key={index} style={{marginBottom: "20px", fontWeight:"bold", fontSize: "120%", color: "darkolivegreen"}}>
                 {item}
-                <button onClick={() => playTTS(item)}>Play</button>
+                <button style={{backgroundColor: "green", color:"white", marginLeft: "10px", paddingLeft: "20px", paddingRight: "20px", fontWeight:"bolder"}}onClick={() => playTTS(item)}>Play</button>
               </div>
             ))}
           </p>
         </div>
-      )}
+      )}</div>
        <form onSubmit={handleSubmit}>
         <label htmlFor="animal"></label>
         {/* <input
@@ -69,6 +68,7 @@ const App: React.FC = () => {
         /> */}
         {/* <button type="submit" style={{fontSize: 50, marginBottom: "20px", borderRadius: "2%", color: "white", backgroundColor: "black"}}>Generate Sentences</button> */}
       </form>
+      {selectedWords.length > 0 &&  <button style={{backgroundColor: "green", color:"white", marginLeft: "10px", paddingLeft: "20px", paddingRight: "20px", fontWeight:"bolder"}}onClick={() => playTTS(selectedWords.toString())}>Play</button>}
       {<WordCloud 
         selectedWords = {selectedWords}
         setSelectedWords = {setSelectedWords}
