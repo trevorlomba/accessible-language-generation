@@ -9,7 +9,7 @@
       "Transcription": {
         "Text": "I need you to call the nurse.",
         "Source": "azure",
-        "Confidence": 0.95,
+        "Confidence": 0.96,
         "Verified": false,
         "State": "Transcribed"
       },
