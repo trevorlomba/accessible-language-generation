@@ -29,12 +29,17 @@ def generate_prompt(animal):
 
 Return the sentence as string.
 
+Additionally, the keywords may have a prefix followed by a colon. This represents the part of speech the word is intended to be used in: subject, object, or adverb. This is an optional field. If you see the part of speech followed by a colon, try to use that word in the corresponding part of speech in the sentence you produce.
+
 Example:
 Keyword: coffee
 I would like some coffee, please
 
 Keyword: bathroom
 I need to go to the bathroom
+
+Keyword: subject:Trevor call object:mom
+Please tell Trevor to call my mother
 
 Keyword: {animal}
 """
