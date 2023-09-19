@@ -9,7 +9,8 @@ import sqlite3
 json_file = "MessageBank.json"
 
 # Add this line to import stopwords
-nltk.download("stopwords")
+# nltk.download("stopwords")
+print('hello')
 
 # Function to connect to the existing database
 
@@ -33,7 +34,6 @@ def read_rows_from_database(conn):
 def save_data_to_json_file(data, filename):
     with open(filename, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
-
 
 # Connect to the database
 conn = connect_database()
